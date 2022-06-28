@@ -1,0 +1,65 @@
+HETATM    1  C1  DXT C 902       7.463  20.504   5.576  0.77 71.44           C  
+HETATM    2  O1  DXT C 902       6.852  19.606   6.133  0.77 71.61           O  
+HETATM    3  C2  DXT C 902       7.160  20.871   4.198  0.77 73.58           C  
+HETATM    4  C3  DXT C 902       7.909  21.763   3.554  0.77 74.83           C  
+HETATM    5  O3  DXT C 902       7.372  22.342   2.482  0.77 76.09           O  
+HETATM    6  C4  DXT C 902       9.307  22.137   4.002  0.77 73.36           C  
+HETATM    7  C4A DXT C 902       9.704  21.448   5.319  0.77 70.25           C  
+HETATM    8  C4B DXT C 902       8.545  21.268   6.287  0.77 71.56           C  
+HETATM    9  N4  DXT C 902       9.444  23.611   4.074  0.77 73.43           N  
+HETATM   10  C5  DXT C 902      10.397  20.118   5.051  0.77 67.87           C  
+HETATM   11  C5A DXT C 902      11.005  19.536   6.333  0.77 65.43           C  
+HETATM   12  C5B DXT C 902      10.088  19.735   7.525  0.77 66.30           C  
+HETATM   13  O5  DXT C 902      11.405  20.393   4.071  0.77 71.23           O  
+HETATM   14  C6  DXT C 902      11.401  18.051   6.248  0.77 63.18           C  
+HETATM   15  C6A DXT C 902      12.129  17.684   7.487  0.77 61.82           C  
+HETATM   16  C6B DXT C 902      11.622  18.179   8.780  0.77 63.25           C  
+HETATM   17  C7  DXT C 902      13.270  16.889   7.476  0.77 59.10           C  
+HETATM   18  C8  DXT C 902      13.922  16.564   8.666  0.77 56.81           C  
+HETATM   19  C9  DXT C 902      13.482  17.015   9.912  0.77 58.55           C  
+HETATM   20  C10 DXT C 902      12.350  17.816  10.020  0.77 62.53           C  
+HETATM   21  O10 DXT C 902      11.920  18.254  11.235  0.77 61.97           O  
+HETATM   22  C11 DXT C 902      10.403  19.039   8.770  0.77 63.90           C  
+HETATM   23  O11 DXT C 902       9.717  19.173   9.770  0.77 64.91           O  
+HETATM   24  C12 DXT C 902       9.010  20.524   7.514  0.77 67.12           C  
+HETATM   25  O12 DXT C 902       8.323  20.674   8.643  0.77 69.76           O  
+HETATM   26  O13 DXT C 902       8.041  22.553   6.674  0.77 70.03           O  
+HETATM   27  C21 DXT C 902       6.029  20.268   3.498  0.77 78.36           C  
+HETATM   28  N21 DXT C 902       5.695  19.009   3.776  0.77 75.55           N  
+HETATM   29  O21 DXT C 902       5.430  20.926   2.660  0.77 78.92           O  
+HETATM   30  C41 DXT C 902       9.853  24.134   2.761  0.77 71.90           C  
+HETATM   31  C42 DXT C 902      10.452  24.032   5.060  0.77 70.84           C  
+HETATM   32  C61 DXT C 902      12.288  17.702   5.057  0.77 63.50           C  
+CONECT    1    2    3    8
+CONECT    2    1
+CONECT    3    1    4   27
+CONECT    4    3    5    6
+CONECT    5    4
+CONECT    6    4    7    9
+CONECT    7    6    8   10
+CONECT    8    1    7   24   26
+CONECT    9    6   30   31
+CONECT   10    7   11   13
+CONECT   11   10   12   14
+CONECT   12   11   22   24
+CONECT   13   10
+CONECT   14   11   15   32
+CONECT   15   14   16   17
+CONECT   16   15   20   22
+CONECT   17   15   18
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20   16   19   21
+CONECT   21   20
+CONECT   22   12   16   23
+CONECT   23   22
+CONECT   24    8   12   25
+CONECT   25   24
+CONECT   26    8
+CONECT   27    3   28   29
+CONECT   28   27
+CONECT   29   27
+CONECT   30    9
+CONECT   31    9
+CONECT   32   14
+END
