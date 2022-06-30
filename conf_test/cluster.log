@@ -1,0 +1,654 @@
+# cluster file
+# automatically generated on: Tue Jun 28 16:07:26 2022
+# mode: rmsd, filetype: pdb, lsqfit: 1, selmode: heavy
+@cluster t has 300 elements, 50 subclusters
+1 5qe_conf100.pdb
+2 5qe_conf101.pdb
+3 5qe_conf102.pdb
+4 5qe_conf103.pdb
+5 5qe_conf104.pdb
+6 5qe_conf105.pdb
+7 5qe_conf106.pdb
+8 5qe_conf107.pdb
+9 5qe_conf108.pdb
+10 5qe_conf109.pdb
+11 5qe_conf10.pdb
+12 5qe_conf110.pdb
+13 5qe_conf111.pdb
+14 5qe_conf112.pdb
+15 5qe_conf113.pdb
+16 5qe_conf114.pdb
+17 5qe_conf115.pdb
+18 5qe_conf116.pdb
+19 5qe_conf117.pdb
+20 5qe_conf118.pdb
+21 5qe_conf119.pdb
+22 5qe_conf11.pdb
+23 5qe_conf120.pdb
+24 5qe_conf121.pdb
+25 5qe_conf122.pdb
+26 5qe_conf123.pdb
+27 5qe_conf124.pdb
+28 5qe_conf125.pdb
+29 5qe_conf126.pdb
+30 5qe_conf127.pdb
+31 5qe_conf128.pdb
+32 5qe_conf129.pdb
+33 5qe_conf12.pdb
+34 5qe_conf130.pdb
+35 5qe_conf131.pdb
+36 5qe_conf132.pdb
+37 5qe_conf133.pdb
+38 5qe_conf134.pdb
+39 5qe_conf135.pdb
+40 5qe_conf136.pdb
+41 5qe_conf137.pdb
+42 5qe_conf138.pdb
+43 5qe_conf139.pdb
+44 5qe_conf13.pdb
+45 5qe_conf140.pdb
+46 5qe_conf141.pdb
+47 5qe_conf142.pdb
+48 5qe_conf143.pdb
+49 5qe_conf144.pdb
+50 5qe_conf145.pdb
+51 5qe_conf146.pdb
+52 5qe_conf147.pdb
+53 5qe_conf148.pdb
+54 5qe_conf149.pdb
+55 5qe_conf14.pdb
+56 5qe_conf150.pdb
+57 5qe_conf151.pdb
+58 5qe_conf152.pdb
+59 5qe_conf153.pdb
+60 5qe_conf154.pdb
+61 5qe_conf155.pdb
+62 5qe_conf156.pdb
+63 5qe_conf157.pdb
+64 5qe_conf158.pdb
+65 5qe_conf159.pdb
+66 5qe_conf15.pdb
+67 5qe_conf160.pdb
+68 5qe_conf161.pdb
+69 5qe_conf162.pdb
+70 5qe_conf163.pdb
+71 5qe_conf164.pdb
+72 5qe_conf165.pdb
+73 5qe_conf166.pdb
+74 5qe_conf167.pdb
+75 5qe_conf168.pdb
+76 5qe_conf169.pdb
+77 5qe_conf16.pdb
+78 5qe_conf170.pdb
+79 5qe_conf171.pdb
+80 5qe_conf172.pdb
+81 5qe_conf173.pdb
+82 5qe_conf174.pdb
+83 5qe_conf175.pdb
+84 5qe_conf176.pdb
+85 5qe_conf177.pdb
+86 5qe_conf178.pdb
+87 5qe_conf179.pdb
+88 5qe_conf17.pdb
+89 5qe_conf180.pdb
+90 5qe_conf181.pdb
+91 5qe_conf182.pdb
+92 5qe_conf183.pdb
+93 5qe_conf184.pdb
+94 5qe_conf185.pdb
+95 5qe_conf186.pdb
+96 5qe_conf187.pdb
+97 5qe_conf188.pdb
+98 5qe_conf189.pdb
+99 5qe_conf18.pdb
+100 5qe_conf190.pdb
+101 5qe_conf191.pdb
+102 5qe_conf192.pdb
+103 5qe_conf193.pdb
+104 5qe_conf194.pdb
+105 5qe_conf195.pdb
+106 5qe_conf196.pdb
+107 5qe_conf197.pdb
+108 5qe_conf198.pdb
+109 5qe_conf199.pdb
+110 5qe_conf19.pdb
+111 5qe_conf1.pdb
+112 5qe_conf200.pdb
+113 5qe_conf201.pdb
+114 5qe_conf202.pdb
+115 5qe_conf203.pdb
+116 5qe_conf204.pdb
+117 5qe_conf205.pdb
+118 5qe_conf206.pdb
+119 5qe_conf207.pdb
+120 5qe_conf208.pdb
+121 5qe_conf209.pdb
+122 5qe_conf20.pdb
+123 5qe_conf210.pdb
+124 5qe_conf211.pdb
+125 5qe_conf212.pdb
+126 5qe_conf213.pdb
+127 5qe_conf214.pdb
+128 5qe_conf215.pdb
+129 5qe_conf216.pdb
+130 5qe_conf217.pdb
+131 5qe_conf218.pdb
+132 5qe_conf219.pdb
+133 5qe_conf21.pdb
+134 5qe_conf220.pdb
+135 5qe_conf221.pdb
+136 5qe_conf222.pdb
+137 5qe_conf223.pdb
+138 5qe_conf224.pdb
+139 5qe_conf225.pdb
+140 5qe_conf226.pdb
+141 5qe_conf227.pdb
+142 5qe_conf228.pdb
+143 5qe_conf229.pdb
+144 5qe_conf22.pdb
+145 5qe_conf230.pdb
+146 5qe_conf231.pdb
+147 5qe_conf232.pdb
+148 5qe_conf233.pdb
+149 5qe_conf234.pdb
+150 5qe_conf235.pdb
+151 5qe_conf236.pdb
+152 5qe_conf237.pdb
+153 5qe_conf238.pdb
+154 5qe_conf239.pdb
+155 5qe_conf23.pdb
+156 5qe_conf240.pdb
+157 5qe_conf241.pdb
+158 5qe_conf242.pdb
+159 5qe_conf243.pdb
+160 5qe_conf244.pdb
+161 5qe_conf245.pdb
+162 5qe_conf246.pdb
+163 5qe_conf247.pdb
+164 5qe_conf248.pdb
+165 5qe_conf249.pdb
+166 5qe_conf24.pdb
+167 5qe_conf250.pdb
+168 5qe_conf251.pdb
+169 5qe_conf252.pdb
+170 5qe_conf253.pdb
+171 5qe_conf254.pdb
+172 5qe_conf255.pdb
+173 5qe_conf256.pdb
+174 5qe_conf257.pdb
+175 5qe_conf258.pdb
+176 5qe_conf259.pdb
+177 5qe_conf25.pdb
+178 5qe_conf260.pdb
+179 5qe_conf261.pdb
+180 5qe_conf262.pdb
+181 5qe_conf263.pdb
+182 5qe_conf264.pdb
+183 5qe_conf265.pdb
+184 5qe_conf266.pdb
+185 5qe_conf267.pdb
+186 5qe_conf268.pdb
+187 5qe_conf269.pdb
+188 5qe_conf26.pdb
+189 5qe_conf270.pdb
+190 5qe_conf271.pdb
+191 5qe_conf272.pdb
+192 5qe_conf273.pdb
+193 5qe_conf274.pdb
+194 5qe_conf275.pdb
+195 5qe_conf276.pdb
+196 5qe_conf277.pdb
+197 5qe_conf278.pdb
+198 5qe_conf279.pdb
+199 5qe_conf27.pdb
+200 5qe_conf280.pdb
+201 5qe_conf281.pdb
+202 5qe_conf282.pdb
+203 5qe_conf283.pdb
+204 5qe_conf284.pdb
+205 5qe_conf285.pdb
+206 5qe_conf286.pdb
+207 5qe_conf287.pdb
+208 5qe_conf288.pdb
+209 5qe_conf289.pdb
+210 5qe_conf28.pdb
+211 5qe_conf290.pdb
+212 5qe_conf291.pdb
+213 5qe_conf292.pdb
+214 5qe_conf293.pdb
+215 5qe_conf294.pdb
+216 5qe_conf295.pdb
+217 5qe_conf296.pdb
+218 5qe_conf297.pdb
+219 5qe_conf298.pdb
+220 5qe_conf299.pdb
+221 5qe_conf29.pdb
+222 5qe_conf2.pdb
+223 5qe_conf30.pdb
+224 5qe_conf31.pdb
+225 5qe_conf32.pdb
+226 5qe_conf33.pdb
+227 5qe_conf34.pdb
+228 5qe_conf35.pdb
+229 5qe_conf36.pdb
+230 5qe_conf37.pdb
+231 5qe_conf38.pdb
+232 5qe_conf39.pdb
+233 5qe_conf3.pdb
+234 5qe_conf40.pdb
+235 5qe_conf41.pdb
+236 5qe_conf42.pdb
+237 5qe_conf43.pdb
+238 5qe_conf44.pdb
+239 5qe_conf45.pdb
+240 5qe_conf46.pdb
+241 5qe_conf47.pdb
+242 5qe_conf48.pdb
+243 5qe_conf49.pdb
+244 5qe_conf4.pdb
+245 5qe_conf50.pdb
+246 5qe_conf51.pdb
+247 5qe_conf52.pdb
+248 5qe_conf53.pdb
+249 5qe_conf54.pdb
+250 5qe_conf55.pdb
+251 5qe_conf56.pdb
+252 5qe_conf57.pdb
+253 5qe_conf58.pdb
+254 5qe_conf59.pdb
+255 5qe_conf5.pdb
+256 5qe_conf60.pdb
+257 5qe_conf61.pdb
+258 5qe_conf62.pdb
+259 5qe_conf63.pdb
+260 5qe_conf64.pdb
+261 5qe_conf65.pdb
+262 5qe_conf66.pdb
+263 5qe_conf67.pdb
+264 5qe_conf68.pdb
+265 5qe_conf69.pdb
+266 5qe_conf6.pdb
+267 5qe_conf70.pdb
+268 5qe_conf71.pdb
+269 5qe_conf72.pdb
+270 5qe_conf73.pdb
+271 5qe_conf74.pdb
+272 5qe_conf75.pdb
+273 5qe_conf76.pdb
+274 5qe_conf77.pdb
+275 5qe_conf78.pdb
+276 5qe_conf79.pdb
+277 5qe_conf7.pdb
+278 5qe_conf80.pdb
+279 5qe_conf81.pdb
+280 5qe_conf82.pdb
+281 5qe_conf83.pdb
+282 5qe_conf84.pdb
+283 5qe_conf85.pdb
+284 5qe_conf86.pdb
+285 5qe_conf87.pdb
+286 5qe_conf88.pdb
+287 5qe_conf89.pdb
+288 5qe_conf8.pdb
+289 5qe_conf90.pdb
+290 5qe_conf91.pdb
+291 5qe_conf92.pdb
+292 5qe_conf93.pdb
+293 5qe_conf94.pdb
+294 5qe_conf95.pdb
+295 5qe_conf96.pdb
+296 5qe_conf97.pdb
+297 5qe_conf98.pdb
+298 5qe_conf99.pdb
+299 5qe_conf9.pdb
+300 5qe.pdb
+@cluster t.1 has 11 elements, 0 subclusters
+1 5qe_conf100.pdb 0.511090
+40 5qe_conf136.pdb 0.862481
+69 5qe_conf162.pdb 0.699395
+86 5qe_conf178.pdb 0.561899
+176 5qe_conf259.pdb 0.601461
+211 5qe_conf290.pdb 0.837324
+220 5qe_conf299.pdb 0.703359
+230 5qe_conf37.pdb 0.464090
+232 5qe_conf39.pdb 0.716648
+235 5qe_conf41.pdb 0.829415
+269 5qe_conf72.pdb 0.614271
+@cluster t.2 has 1 elements, 0 subclusters
+271 5qe_conf74.pdb 0.000000
+@cluster t.3 has 4 elements, 0 subclusters
+216 5qe_conf295.pdb 0.651703
+234 5qe_conf40.pdb 0.481001
+236 5qe_conf42.pdb 0.490764
+248 5qe_conf53.pdb 0.502480
+@cluster t.4 has 13 elements, 0 subclusters
+4 5qe_conf103.pdb 0.662859
+27 5qe_conf124.pdb 0.435410
+88 5qe_conf17.pdb 0.657929
+95 5qe_conf186.pdb 0.588012
+109 5qe_conf199.pdb 0.784090
+114 5qe_conf202.pdb 0.905537
+148 5qe_conf233.pdb 0.759727
+200 5qe_conf280.pdb 0.757821
+237 5qe_conf43.pdb 0.614040
+242 5qe_conf48.pdb 0.850060
+265 5qe_conf69.pdb 0.823470
+274 5qe_conf77.pdb 0.623325
+285 5qe_conf87.pdb 0.644348
+@cluster t.5 has 4 elements, 0 subclusters
+5 5qe_conf104.pdb 0.574731
+30 5qe_conf127.pdb 0.346208
+50 5qe_conf145.pdb 0.410456
+62 5qe_conf156.pdb 0.614246
+@cluster t.6 has 4 elements, 0 subclusters
+6 5qe_conf105.pdb 0.516900
+65 5qe_conf159.pdb 0.693844
+71 5qe_conf164.pdb 0.480436
+96 5qe_conf187.pdb 0.713174
+@cluster t.7 has 16 elements, 0 subclusters
+7 5qe_conf106.pdb 0.525221
+36 5qe_conf132.pdb 0.563739
+61 5qe_conf155.pdb 0.637241
+99 5qe_conf18.pdb 0.726344
+113 5qe_conf201.pdb 0.855496
+175 5qe_conf258.pdb 0.668668
+180 5qe_conf262.pdb 0.784788
+186 5qe_conf268.pdb 0.697303
+189 5qe_conf270.pdb 0.897165
+193 5qe_conf274.pdb 0.882075
+219 5qe_conf298.pdb 0.916073
+240 5qe_conf46.pdb 0.651481
+243 5qe_conf49.pdb 0.527958
+250 5qe_conf55.pdb 0.444312
+267 5qe_conf70.pdb 0.675216
+275 5qe_conf78.pdb 0.472785
+@cluster t.8 has 6 elements, 0 subclusters
+8 5qe_conf107.pdb 0.680629
+15 5qe_conf113.pdb 0.721821
+204 5qe_conf284.pdb 0.394513
+207 5qe_conf287.pdb 0.624713
+229 5qe_conf36.pdb 0.580176
+279 5qe_conf81.pdb 0.381499
+@cluster t.9 has 10 elements, 0 subclusters
+9 5qe_conf108.pdb 0.575217
+18 5qe_conf116.pdb 0.694149
+23 5qe_conf120.pdb 0.670347
+49 5qe_conf144.pdb 0.637146
+54 5qe_conf149.pdb 0.697490
+70 5qe_conf163.pdb 0.493734
+98 5qe_conf189.pdb 0.732081
+100 5qe_conf190.pdb 0.640770
+106 5qe_conf196.pdb 0.740041
+196 5qe_conf277.pdb 0.709523
+@cluster t.10 has 5 elements, 0 subclusters
+10 5qe_conf109.pdb 0.454681
+28 5qe_conf125.pdb 0.676675
+52 5qe_conf147.pdb 0.686977
+57 5qe_conf151.pdb 0.673456
+172 5qe_conf255.pdb 0.676636
+@cluster t.11 has 10 elements, 0 subclusters
+11 5qe_conf10.pdb 0.632632
+22 5qe_conf11.pdb 0.564735
+67 5qe_conf160.pdb 0.461075
+72 5qe_conf165.pdb 0.653754
+91 5qe_conf182.pdb 0.551491
+128 5qe_conf215.pdb 0.658111
+185 5qe_conf267.pdb 0.642076
+188 5qe_conf26.pdb 0.683610
+266 5qe_conf6.pdb 0.645648
+289 5qe_conf90.pdb 0.759012
+@cluster t.12 has 10 elements, 0 subclusters
+12 5qe_conf110.pdb 0.561576
+26 5qe_conf123.pdb 0.699503
+44 5qe_conf13.pdb 0.311745
+77 5qe_conf16.pdb 0.615428
+111 5qe_conf1.pdb 0.704150
+205 5qe_conf285.pdb 0.778647
+210 5qe_conf28.pdb 0.723911
+227 5qe_conf34.pdb 0.643291
+233 5qe_conf3.pdb 0.784937
+252 5qe_conf57.pdb 0.776000
+@cluster t.13 has 12 elements, 0 subclusters
+13 5qe_conf111.pdb 0.509670
+34 5qe_conf130.pdb 0.715261
+48 5qe_conf143.pdb 0.734694
+53 5qe_conf148.pdb 0.710607
+195 5qe_conf276.pdb 0.708783
+206 5qe_conf286.pdb 0.848732
+217 5qe_conf296.pdb 0.884105
+238 5qe_conf44.pdb 0.685632
+245 5qe_conf50.pdb 0.501507
+262 5qe_conf66.pdb 0.883210
+264 5qe_conf68.pdb 0.576321
+270 5qe_conf73.pdb 0.759179
+@cluster t.14 has 6 elements, 0 subclusters
+14 5qe_conf112.pdb 0.664998
+29 5qe_conf126.pdb 0.569191
+82 5qe_conf174.pdb 0.284924
+84 5qe_conf176.pdb 0.647802
+131 5qe_conf218.pdb 0.774252
+167 5qe_conf250.pdb 0.699669
+@cluster t.15 has 4 elements, 0 subclusters
+16 5qe_conf114.pdb 0.555522
+110 5qe_conf19.pdb 0.477153
+203 5qe_conf283.pdb 0.524704
+209 5qe_conf289.pdb 0.677163
+@cluster t.16 has 9 elements, 0 subclusters
+208 5qe_conf288.pdb 0.694094
+213 5qe_conf292.pdb 0.648637
+221 5qe_conf29.pdb 0.538908
+222 5qe_conf2.pdb 0.563894
+223 5qe_conf30.pdb 0.748588
+251 5qe_conf56.pdb 0.824067
+260 5qe_conf64.pdb 0.371310
+272 5qe_conf75.pdb 0.645587
+288 5qe_conf8.pdb 0.598399
+@cluster t.17 has 12 elements, 0 subclusters
+20 5qe_conf118.pdb 0.694886
+64 5qe_conf158.pdb 0.786296
+87 5qe_conf179.pdb 0.541236
+121 5qe_conf209.pdb 0.447907
+157 5qe_conf241.pdb 0.507136
+184 5qe_conf266.pdb 0.618396
+192 5qe_conf273.pdb 0.828842
+246 5qe_conf51.pdb 0.452403
+253 5qe_conf58.pdb 0.432500
+256 5qe_conf60.pdb 0.661982
+277 5qe_conf7.pdb 0.842053
+293 5qe_conf94.pdb 0.583118
+@cluster t.18 has 5 elements, 0 subclusters
+21 5qe_conf119.pdb 0.429037
+105 5qe_conf195.pdb 0.721865
+150 5qe_conf235.pdb 0.670433
+153 5qe_conf238.pdb 0.638697
+290 5qe_conf91.pdb 0.479270
+@cluster t.19 has 6 elements, 0 subclusters
+24 5qe_conf121.pdb 0.516297
+80 5qe_conf172.pdb 0.546840
+101 5qe_conf191.pdb 0.670718
+116 5qe_conf204.pdb 0.669840
+120 5qe_conf208.pdb 0.678108
+287 5qe_conf89.pdb 0.382881
+@cluster t.20 has 3 elements, 0 subclusters
+39 5qe_conf135.pdb 0.333944
+198 5qe_conf279.pdb 0.502382
+295 5qe_conf96.pdb 0.497609
+@cluster t.21 has 7 elements, 0 subclusters
+93 5qe_conf184.pdb 0.492817
+132 5qe_conf219.pdb 0.547286
+151 5qe_conf236.pdb 0.540870
+161 5qe_conf245.pdb 0.788271
+165 5qe_conf249.pdb 0.658061
+273 5qe_conf76.pdb 0.597556
+300 5qe.pdb 0.810143
+@cluster t.22 has 7 elements, 0 subclusters
+32 5qe_conf129.pdb 0.670200
+51 5qe_conf146.pdb 0.604628
+58 5qe_conf152.pdb 0.558432
+247 5qe_conf52.pdb 0.483788
+258 5qe_conf62.pdb 0.544844
+261 5qe_conf65.pdb 0.765369
+263 5qe_conf67.pdb 0.747556
+@cluster t.23 has 7 elements, 0 subclusters
+33 5qe_conf12.pdb 0.438766
+90 5qe_conf181.pdb 0.647241
+122 5qe_conf20.pdb 0.669644
+152 5qe_conf237.pdb 0.611877
+197 5qe_conf278.pdb 0.691802
+241 5qe_conf47.pdb 0.616787
+278 5qe_conf80.pdb 0.597194
+@cluster t.24 has 3 elements, 0 subclusters
+35 5qe_conf131.pdb 0.328108
+68 5qe_conf161.pdb 0.467653
+73 5qe_conf166.pdb 0.573649
+@cluster t.25 has 11 elements, 0 subclusters
+37 5qe_conf133.pdb 0.399917
+45 5qe_conf140.pdb 0.700357
+47 5qe_conf142.pdb 0.834519
+59 5qe_conf153.pdb 0.575126
+79 5qe_conf171.pdb 0.608541
+124 5qe_conf211.pdb 0.437157
+125 5qe_conf212.pdb 0.732981
+127 5qe_conf214.pdb 0.738106
+136 5qe_conf222.pdb 0.605744
+140 5qe_conf226.pdb 0.707169
+280 5qe_conf82.pdb 0.606416
+@cluster t.26 has 5 elements, 0 subclusters
+38 5qe_conf134.pdb 0.493601
+42 5qe_conf138.pdb 0.467425
+46 5qe_conf141.pdb 0.400912
+63 5qe_conf157.pdb 0.395445
+173 5qe_conf256.pdb 0.498918
+@cluster t.27 has 13 elements, 0 subclusters
+25 5qe_conf122.pdb 0.748270
+41 5qe_conf137.pdb 0.680435
+66 5qe_conf15.pdb 0.544415
+115 5qe_conf203.pdb 0.811548
+130 5qe_conf217.pdb 0.515656
+155 5qe_conf23.pdb 0.507580
+166 5qe_conf24.pdb 0.696161
+179 5qe_conf261.pdb 0.644034
+199 5qe_conf27.pdb 0.532575
+201 5qe_conf281.pdb 0.669720
+214 5qe_conf293.pdb 0.731410
+231 5qe_conf38.pdb 0.749364
+299 5qe_conf9.pdb 0.668601
+@cluster t.28 has 7 elements, 0 subclusters
+3 5qe_conf102.pdb 0.632122
+43 5qe_conf139.pdb 0.700393
+92 5qe_conf183.pdb 0.421600
+143 5qe_conf229.pdb 0.643799
+149 5qe_conf234.pdb 0.727970
+156 5qe_conf240.pdb 0.486507
+297 5qe_conf98.pdb 0.468324
+@cluster t.29 has 5 elements, 0 subclusters
+83 5qe_conf175.pdb 0.559941
+129 5qe_conf216.pdb 0.593929
+135 5qe_conf221.pdb 0.574295
+160 5qe_conf244.pdb 0.666259
+187 5qe_conf269.pdb 0.421894
+@cluster t.30 has 6 elements, 0 subclusters
+31 5qe_conf128.pdb 0.490257
+56 5qe_conf150.pdb 0.752336
+118 5qe_conf206.pdb 0.465640
+284 5qe_conf86.pdb 0.700807
+292 5qe_conf93.pdb 0.571026
+296 5qe_conf97.pdb 0.500535
+@cluster t.31 has 9 elements, 0 subclusters
+60 5qe_conf154.pdb 0.793318
+107 5qe_conf197.pdb 0.621997
+138 5qe_conf224.pdb 0.569589
+164 5qe_conf248.pdb 0.450289
+183 5qe_conf265.pdb 0.776191
+239 5qe_conf45.pdb 0.686664
+244 5qe_conf4.pdb 0.742056
+259 5qe_conf63.pdb 0.779734
+286 5qe_conf88.pdb 0.541201
+@cluster t.32 has 4 elements, 0 subclusters
+75 5qe_conf168.pdb 0.394502
+117 5qe_conf205.pdb 0.538767
+191 5qe_conf272.pdb 0.511563
+194 5qe_conf275.pdb 0.601131
+@cluster t.33 has 1 elements, 0 subclusters
+76 5qe_conf169.pdb 0.000000
+@cluster t.34 has 7 elements, 0 subclusters
+78 5qe_conf170.pdb 0.421636
+141 5qe_conf227.pdb 0.572318
+181 5qe_conf263.pdb 0.592159
+224 5qe_conf31.pdb 0.607441
+254 5qe_conf59.pdb 0.677363
+257 5qe_conf61.pdb 0.572851
+298 5qe_conf99.pdb 0.639078
+@cluster t.35 has 3 elements, 0 subclusters
+81 5qe_conf173.pdb 0.366843
+94 5qe_conf185.pdb 0.506300
+282 5qe_conf84.pdb 0.523570
+@cluster t.36 has 6 elements, 0 subclusters
+2 5qe_conf101.pdb 0.562376
+74 5qe_conf167.pdb 0.727972
+158 5qe_conf242.pdb 0.841498
+159 5qe_conf243.pdb 0.351138
+168 5qe_conf251.pdb 0.598826
+190 5qe_conf271.pdb 0.628215
+@cluster t.37 has 11 elements, 0 subclusters
+55 5qe_conf14.pdb 0.705826
+85 5qe_conf177.pdb 0.604118
+144 5qe_conf22.pdb 0.340038
+177 5qe_conf25.pdb 0.626255
+212 5qe_conf291.pdb 0.548030
+215 5qe_conf294.pdb 0.693807
+225 5qe_conf32.pdb 0.650257
+226 5qe_conf33.pdb 0.650810
+228 5qe_conf35.pdb 0.707972
+255 5qe_conf5.pdb 0.509011
+283 5qe_conf85.pdb 0.599006
+@cluster t.38 has 4 elements, 0 subclusters
+89 5qe_conf180.pdb 0.480551
+139 5qe_conf225.pdb 0.742207
+268 5qe_conf71.pdb 0.398293
+276 5qe_conf79.pdb 0.581184
+@cluster t.39 has 2 elements, 0 subclusters
+154 5qe_conf239.pdb 0.409199
+182 5qe_conf264.pdb 0.409199
+@cluster t.40 has 1 elements, 0 subclusters
+97 5qe_conf188.pdb 0.000000
+@cluster t.41 has 4 elements, 0 subclusters
+102 5qe_conf192.pdb 0.455655
+170 5qe_conf253.pdb 0.656298
+218 5qe_conf297.pdb 0.423880
+294 5qe_conf95.pdb 0.497084
+@cluster t.42 has 7 elements, 0 subclusters
+103 5qe_conf193.pdb 0.609131
+133 5qe_conf21.pdb 0.838592
+162 5qe_conf246.pdb 0.459782
+163 5qe_conf247.pdb 0.468527
+171 5qe_conf254.pdb 0.615825
+174 5qe_conf257.pdb 0.573620
+249 5qe_conf54.pdb 0.637729
+@cluster t.43 has 1 elements, 0 subclusters
+104 5qe_conf194.pdb 0.000000
+@cluster t.44 has 7 elements, 0 subclusters
+17 5qe_conf115.pdb 0.669382
+108 5qe_conf198.pdb 0.716598
+137 5qe_conf223.pdb 0.617165
+145 5qe_conf230.pdb 0.470528
+146 5qe_conf231.pdb 0.652247
+202 5qe_conf282.pdb 0.586359
+281 5qe_conf83.pdb 0.632277
+@cluster t.45 has 2 elements, 0 subclusters
+19 5qe_conf117.pdb 0.449358
+112 5qe_conf200.pdb 0.449358
+@cluster t.46 has 1 elements, 0 subclusters
+147 5qe_conf232.pdb 0.000000
+@cluster t.47 has 2 elements, 0 subclusters
+119 5qe_conf207.pdb 0.496743
+291 5qe_conf92.pdb 0.496743
+@cluster t.48 has 3 elements, 0 subclusters
+123 5qe_conf210.pdb 0.587675
+169 5qe_conf252.pdb 0.440310
+178 5qe_conf260.pdb 0.366280
+@cluster t.49 has 2 elements, 0 subclusters
+126 5qe_conf213.pdb 0.409773
+134 5qe_conf220.pdb 0.409773
+@cluster t.50 has 1 elements, 0 subclusters
+142 5qe_conf228.pdb 0.000000

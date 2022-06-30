@@ -1,0 +1,8 @@
+ATOM      1  CLA CLA     1     -35.410 -65.217  28.740  0.00  0.00      HETA
+ATOM      2  CLA CLA     2     -67.842   2.649 -50.632  0.00  0.00      HETA
+ATOM      3  CLA CLA     3      61.329  12.448  63.998  0.00  0.00      HETA
+ATOM      4  CLA CLA     4      49.012  62.669 -10.330  0.00  0.00      HETA
+ATOM      5  CLA CLA     5     -50.877 -67.970 -22.469  0.00  0.00      HETA
+ATOM      6  CLA CLA     6     -14.700 -22.290 -51.959  0.00  0.00      HETA
+TER
+END
